@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-700 to-blue-400 flex flex-col justify-center items-center text-white px-6">
+    <div className="min-h-screen bg-linear-to-br from-blue-900 via-blue-700 to-blue-400 flex flex-col justify-center items-center text-white px-6">
       <h1 className="text-5xl font-extrabold mb-6 text-center drop-shadow-lg">
         Plataforma de Recursos Hídricos Agronómicos
       </h1>
